@@ -1,7 +1,9 @@
 # Readings
 
-* Recurrent Neural Networks
+* Machine Learning
   * Chatbots with seq2seq http://suriyadeepan.github.io/2016-06-28-easy-seq2seq/
+  * Single character embedding vs Full word embedding https://blog.themusio.com/2016/03/11/word-embedding/
+  * Deep learning in a nutshell: sequence learning https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-sequence-learning/
 
 * GitHub Markdown
   * https://guides.github.com/features/mastering-markdown/
